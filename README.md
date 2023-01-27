@@ -37,7 +37,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://salvador-martinez.vercel.app/"><img alt="Website" src="![Website](https://img.shields.io/website?logo=Google%20Chrome&up_color=blue&up_message=salvador-martinez.vercel.app&url=https%3A%2F%2Fsalvador-martinez.vercel.app%2F)"></a>
+<a href="https://salvador-martinez.vercel.app/"><img alt="Website" src="https://img.shields.io/website?logo=Google%20Chrome&up_color=blue&up_message=salvador-martinez.vercel.app&url=https%3A%2F%2Fsalvador-martinez.vercel.app%2F"></a>
 <a href="https://www.linkedin.com/in/salvador-mart%C3%ADnez-sm/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
 
 ⭐️ From [AVS1508](https://github.com/AVS1508)
