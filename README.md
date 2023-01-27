@@ -5,7 +5,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Business Administration in Universidad Veracruzana.
 - 💼 &nbsp; Working as a community manager in Trajes Regionales de Segunda Mano.
-- 🌱 &nbsp; Learning more about Software Development, UX/UI and finances.
+- 🌱 &nbsp; Learning more about Software Development, UX/UI and Finances.
 - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
