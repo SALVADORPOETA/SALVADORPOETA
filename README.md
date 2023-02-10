@@ -11,6 +11,7 @@
 
 - 💻 &nbsp;
   ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
+  ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=ubuntu)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Tkinter](https://img.shields.io/badge/-Tkinter-333333?style=flat&logo=python&logoColor=D3D3D3)
   
