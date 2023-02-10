@@ -12,7 +12,7 @@
 - 💻 &nbsp;
   ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Tkinter](https://img.shields.io/badge/-Tkinter-333333?style=flat&logo=tkinter)
+  ![Tkinter](https://img.shields.io/badge/-Tkinter-333333?style=flat&logo=django)
   
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
