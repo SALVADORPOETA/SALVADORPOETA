@@ -5,7 +5,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Business Administration in Universidad Veracruzana.
 - 💼 &nbsp; Open to work!
-- 🌱 &nbsp; Learning more about Software Development and UX/UI.
+- 🌱 &nbsp; Learning more about Front end Development.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
