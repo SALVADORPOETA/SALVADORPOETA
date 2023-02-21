@@ -33,7 +33,7 @@
 <br/>
 
 <a href="https://github.com/SALVADORPOETA">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SALVADORPOETA&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SALVADORPOETA&count_private=true&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SALVADORPOETA&theme=buefy&layout=compact" />
 </a>
 
