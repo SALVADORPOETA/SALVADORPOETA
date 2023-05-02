@@ -32,8 +32,8 @@
 <br/>
 
 <a href="https://github.com/SALVADORPOETA">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SALVADORPOETA&count_private=true&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SALVADORPOETA&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SALVADORPOETA&count_private=true&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SALVADORPOETA&theme=buefy&layout=compact" />
 </a>
 
 <br/>
