@@ -42,6 +42,6 @@
 
 <p align="center">
 <a href="https://salvadormartinez.vercel.app/"><img alt="Website" src="https://img.shields.io/website?logo=Google%20Chrome&up_color=blue&up_message=salvadormartinez.vercel.app&url=https%3A%2F%2Fsalvadormartinez.vercel.app%2F&label=Website"></a>
-<a href="https://www.linkedin.com/in/salvador-mart%C3%ADnez-sm/"><img alt="LinkedIn" src="https://img.shields.io/website?down_color=blue&down_message=Salvador%20Mart%C3%ADnez&label=LinkedIn&logo=LinkedIn&up_color=blue&up_message=LInkedIn&url=https://www.linkedin.com/in/salvador-martinez-sm/"></a>
+<a href="https://www.linkedin.com/in/salvador-martinez-sm/"><img alt="LinkedIn" src="https://img.shields.io/website?down_color=blue&down_message=Salvador%20Mart%C3%ADnez&label=LinkedIn&logo=LinkedIn&up_color=blue&up_message=LInkedIn&url=https://www.linkedin.com/in/salvador-martinez-sm/"></a>
 
 ⭐️ From [SALVADORPOETA](https://github.com/SALVADORPOETA)
