@@ -24,6 +24,7 @@
   ![NextJS](https://img.shields.io/badge/-NextJS-333333?style=flat&logo=next.js)
   ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
   ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=tailwindcss)
+  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman) 
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
