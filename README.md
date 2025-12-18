@@ -5,7 +5,7 @@
 - 😎 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Bachelor's degree in Business Administration in Universidad Veracruzana.
 - 💼 &nbsp; Open to work!
-- 🌱 &nbsp; Learning more about Full-Stack Development and Data Science.
+- 🌱 &nbsp; Learning more about Full-Stack Development and Data Analysis.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
