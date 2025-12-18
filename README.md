@@ -27,6 +27,19 @@
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=3776AB)
 
+  ![Vite](https://img.shields.io/badge/-Vite-333333?style=flat&logo=vite&logoColor=646CFF)
+  ![Clerk](https://img.shields.io/badge/-Clerk-333333?style=flat&logo=clerk&logoColor=6C47FF)
+  ![Appwrite](https://img.shields.io/badge/-Appwrite-333333?style=flat&logo=appwrite&logoColor=FD366E)
+  ![GSAP](https://img.shields.io/badge/-GSAP-333333?style=flat&logo=greensock&logoColor=88CE02)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb&logoColor=47A248)
+  ![Convex](https://img.shields.io/badge/-Convex-333333?style=flat&logo=convex&logoColor=FFD000)
+  ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sqlite&logoColor=003B57)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql&logoColor=4169E1)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=3776AB)
+  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker&logoColor=2496ED)
+  ![Three.js](https://img.shields.io/badge/-ThreeJS-333333?style=flat&logo=three.js&logoColor=white)
+  ![OpenAI](https://img.shields.io/badge/-OpenAI-333333?style=flat&logo=openai&logoColor=412991)
+
 
 <br/>
 
