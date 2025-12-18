@@ -1,6 +1,6 @@
 <h2> Hey there! I'm Salvador.</h2>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h3> 👨🏽‍💻 &nbsp;About Me </h3>
 
 - 😎 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Bachelor's degree in Business Administration in Universidad Veracruzana.
