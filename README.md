@@ -23,10 +23,6 @@
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 - ⚙️ &nbsp;
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb&logoColor=47A248)
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=3776AB)
-
   ![Vite](https://img.shields.io/badge/-Vite-333333?style=flat&logo=vite&logoColor=646CFF)
   ![Clerk](https://img.shields.io/badge/-Clerk-333333?style=flat&logo=clerk&logoColor=6C47FF)
   ![Appwrite](https://img.shields.io/badge/-Appwrite-333333?style=flat&logo=appwrite&logoColor=FD366E)
