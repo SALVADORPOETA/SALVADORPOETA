@@ -24,7 +24,8 @@
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql)  
+  ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=3776AB)
 
 
 <br/>
