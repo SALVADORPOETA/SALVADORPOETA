@@ -9,7 +9,7 @@
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
-- **Primary Skills** &nbsp;
+- **Primary Skills:**
   
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3)
@@ -24,7 +24,7 @@
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   
-- **Secondary Skills** &nbsp;
+- **Secondary Skills:**
   
   ![Vite](https://img.shields.io/badge/-Vite-333333?style=flat&logo=vite&logoColor=646CFF)
   ![Clerk](https://img.shields.io/badge/-Clerk-333333?style=flat&logo=clerk&logoColor=6C47FF)
